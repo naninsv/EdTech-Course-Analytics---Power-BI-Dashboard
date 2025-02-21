@@ -1,5 +1,8 @@
 # EdTech Startup Power BI Dashboard - Course Insights
-![Project Presentation](Photo/Project_Presentation.jng)
+## Project Overview
+
+![Project Presentation](Photo/Project%20Presentation.jpg)
+
 
 ## 📌 Project Overview
 As a data analyst for an EdTech startup, this project aims to clean, analyze, and visualize data collected from various EdTech websites to uncover valuable insights regarding online courses. The focus is on category-wise analysis to identify areas for improvement and opportunities for growth in online education services.
